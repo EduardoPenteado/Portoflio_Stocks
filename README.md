@@ -9,5 +9,5 @@ The main libraries are Plotly, Pandas and YFinance.
 3. Follow the steps on the inputs, they have some tips and if you enter a wrong input, the code would recognize it and you will asked to insert a correct input.
 4. The code will run when the percentage achieves 1, that is 100 % of your total amount have been inputed.
 5. The graphs are interative, you can zooming then and double click to zoom out.
-* If a stock is matchs 25 % of your total amount, on the percentage, you'll need to enter 0.25.
-*The returns could have a bit difference, because it doesn't consider the broker tax, or other taxes. Also, the median price in the bought day and the final day were calculated, which is the median of Close, High and Low price at the day.
+obs. If a stock is matchs 25 % of your total amount, on the percentage, you'll need to enter 0.25.
+The returns could have a bit difference, because it doesn't consider the broker tax, or other taxes. Also, the median price in the bought day and the final day were calculated, which is the median of Close, High and Low price at the day.
