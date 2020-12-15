@@ -1,7 +1,7 @@
 # Portoflio_Stocks
 
-This code returns a series of graphs of the stocks on your portfolio, and returns the final investment of your portfolio. Also, It compare the your investment with Dolar, Bitcoin and index Ibovespa.
-The main libraries are Plotly, Pandas and Yfinance.
+This code returns a series of graphs of the stocks on your portfolio, and returns the final investment of your portfolio. Also, It compares your investment with Dolar, Bitcoin and index Ibovespa.
+The main libraries are Plotly, Pandas and YFinance.
 
 # INSTRUCTIONS
 1. You need to run it on a graphic interface, like Jupyter Notebook.
